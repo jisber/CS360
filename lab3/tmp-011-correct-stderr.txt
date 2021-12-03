@@ -1,0 +1,8 @@
+first_three.c:10:2: warning: missing terminating ' character [enabled by default]
+ I'm addicted to you.
+  ^
+first_three.c:10:1: error: missing terminating ' character
+ I'm addicted to you.
+ ^
+first_three.c:10:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ at end of input
+Command failed.  Exiting

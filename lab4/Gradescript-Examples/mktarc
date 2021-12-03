@@ -1,0 +1,7 @@
+for i in ??? ; do
+  if [ `echo $i | sed 's/.*[08642]$/X/'` = X ]; then
+    $lab3/Lab-4-2019-Tar/private/tarc-scramble $i > $i.tarc
+  else
+    ../tarc $i > $i.tarc
+  fi
+done

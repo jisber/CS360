@@ -1,0 +1,1 @@
+fmakefile (6) cannot have more than one E line

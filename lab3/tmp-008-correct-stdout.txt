@@ -1,0 +1,6 @@
+gcc -o twoexec twofile.o first_three.o
+With a taste of your lips
+I'm on a ride
+You're toxic
+I'm addicted to you
+Don't you know that you're toxic?

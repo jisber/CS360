@@ -1,0 +1,32 @@
+==27601== Memcheck, a memory error detector
+==27601== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==27601== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==27601== Command: ./l2p1
+==27601== 
+Hosts all read in
+
+Enter host name: 
+==27601== 
+==27601== HEAP SUMMARY:
+==27601==     in use at exit: 4,151,580 bytes in 124,307 blocks
+==27601==   total heap usage: 124,307 allocs, 0 frees, 4,151,580 bytes allocated
+==27601== 
+==27601== 112 (64 direct, 48 indirect) bytes in 2 blocks are definitely lost in loss record 2 of 18
+==27601==    at 0x4C29F73: malloc (vg_replace_malloc.c:309)
+==27601==    by 0x400AAC: main (l2p1.c:50)
+==27601== 
+==27601== 4,150,900 (48 direct, 4,150,852 indirect) bytes in 1 blocks are definitely lost in loss record 18 of 18
+==27601==    at 0x4C29F73: malloc (vg_replace_malloc.c:309)
+==27601==    by 0x4014A4: make_jrb (in /home/jisber/cosc360/jisber/lab2/l2p1)
+==27601==    by 0x400A5A: main (l2p1.c:31)
+==27601== 
+==27601== LEAK SUMMARY:
+==27601==    definitely lost: 112 bytes in 3 blocks
+==27601==    indirectly lost: 4,150,900 bytes in 124,303 blocks
+==27601==      possibly lost: 0 bytes in 0 blocks
+==27601==    still reachable: 568 bytes in 1 blocks
+==27601==         suppressed: 0 bytes in 0 blocks
+==27601== Reachable blocks (those to which a pointer was found) are not shown.
+==27601== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==27601== 
+==27601== ERROR SUMMARY: 2 errors from 2 contexts (suppressed: 0 from 0)

@@ -1,0 +1,5 @@
+first_three.c: In function ‘badproc’:
+first_three.c:11:49: error: expected ‘;’ before ‘}’ token
+ void badproc() { printf("I forget semi-colons") }
+                                                 ^
+Command failed.  Exiting

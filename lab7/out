@@ -1,0 +1,29 @@
+==32323== Memcheck, a memory error detector
+==32323== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==32323== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==32323== Command: ./jsh
+==32323== 
+==32323== 
+==32323== Process terminating with default action of signal 2 (SIGINT)
+==32323==    at 0x4F269A0: __read_nocancel (syscall-template.S:81)
+==32323==    by 0x4EB2CC3: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:593)
+==32323==    by 0x4EB3E91: _IO_default_uflow (genops.c:414)
+==32323==    by 0x4EA6C43: _IO_getline_info (iogetline.c:60)
+==32323==    by 0x4EA5A45: fgets (iofgets.c:53)
+==32323==    by 0x401090: get_line (in /home/jisber/cosc360/jisber/lab7/jsh)
+==32323==    by 0x40101E: main (jsh.c:40)
+jsh: ==32323== 
+==32323== HEAP SUMMARY:
+==32323==     in use at exit: 10,040 bytes in 1 blocks
+==32323==   total heap usage: 1 allocs, 0 frees, 10,040 bytes allocated
+==32323== 
+==32323== LEAK SUMMARY:
+==32323==    definitely lost: 0 bytes in 0 blocks
+==32323==    indirectly lost: 0 bytes in 0 blocks
+==32323==      possibly lost: 0 bytes in 0 blocks
+==32323==    still reachable: 10,040 bytes in 1 blocks
+==32323==         suppressed: 0 bytes in 0 blocks
+==32323== Reachable blocks (those to which a pointer was found) are not shown.
+==32323== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==32323== 
+==32323== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

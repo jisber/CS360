@@ -1,0 +1,12 @@
+gcc -c -I/dev/null -O tf4.c
+gcc -c -I/dev/null -O testmain.c
+gcc -c -I/dev/null -O tf0.c
+gcc -c -I/dev/null -O tf1.c
+gcc -c -I/dev/null -O tf3.c
+gcc -o testexec -I/dev/null -O tf4.o testmain.o tf0.o tf1.o tf2.o tf3.o -lm
+I'm on a ride.
+I can't wait, I need a hit.
+It's Dangerous; I'm falling
+I'm loving' it.
+Baby, give me it.
+The log base 10 of 12345.6789 is 4.0915

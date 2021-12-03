@@ -1,0 +1,11 @@
+Hosts all read in
+
+Enter host name:  128.219.96.1:  dssnap dssnap.dsrd.ornl.gov ornl-snap ornl-snap.arpa snap 
+
+Enter host name:  134.167.58.114:  devpan devpan.dev.ornl.govdevpan.dev.ornl.gov 
+
+Enter host name:  128.219.8.39:  c19 jansun jansun.epm.ornl.gov 
+
+Enter host name:  128.219.24.108:  arm4 arm4.esd.ornl.gov eosims eosims.esd.ornl.gov ornlims ornlims.ornl.gov 
+
+Enter host name:  

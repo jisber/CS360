@@ -1,0 +1,11 @@
+cc1: warning: /dev/null: not a directory [enabled by default]
+cc1: warning: /dev/null: not a directory [enabled by default]
+cc1: warning: /dev/null: not a directory [enabled by default]
+tf2.c:7:1: error: unknown type name ‘Text’
+ Text which will cause a compilation error
+ ^
+tf2.c:7:12: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘will’
+ Text which will cause a compilation error
+            ^
+tf2.c:7:12: error: unknown type name ‘will’
+Command failed.  Exiting

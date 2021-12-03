@@ -1,0 +1,540 @@
+Event in Chat Room Video-Games: Waluigi has joined
+Read Event From Client Waluigi: Waluigi has joined
+Event in Chat Room Art: Gus has joined
+Read Event From Client Gus: Gus has joined
+Write Event in Chat Room Art: Gus: Their graves need no flowers
+Write Event in Chat Room Video-Games: Waluigi: It's in the air and it's all around
+Read Event Client Gus, line: Gus: Their graves need no flowers
+Read Event Client Waluigi, line: Waluigi: It's in the air and it's all around
+Event in Chat Room Food: Sasha has joined
+Read Event From Client Sasha: Sasha has joined
+Write Event in Chat Room Art: Gus: LOAD YOUR PROGRAM. I AM YOURSELF.
+Read Event Client Gus, line: Gus: LOAD YOUR PROGRAM. I AM YOURSELF.
+Event in Chat Room Bridge: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Write Event in Chat Room Bridge: Tinky-Winky: Pile it up, pile it high on the platter
+Read Event Client Tinky-Winky, line: Tinky-Winky: Pile it up, pile it high on the platter
+Event in Chat Room Bridge: Tinky-Winky has left
+Event in Chat Room Art: Gus has left
+Event in Chat Room Video-Games: Gus has joined
+Read Event From Client Waluigi: Gus has joined
+Read Event From Client Gus: Gus has joined
+Write Event in Chat Room Video-Games: Gus: Papa's on the corner waitin' for the bus
+Read Event Client Gus, line: Gus: Papa's on the corner waitin' for the bus
+Read Event Client Waluigi, line: Gus: Papa's on the corner waitin' for the bus
+Event in Chat Room Food: Sasha has left
+Event in Chat Room Art: Posh-Spice has joined
+Read Event From Client Posh-Spice: Posh-Spice has joined
+Write Event in Chat Room Art: Posh-Spice: 'Cause you know we ain't gonna come
+Read Event Client Posh-Spice, line: Posh-Spice: 'Cause you know we ain't gonna come
+Event in Chat Room Politics: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Write Event in Chat Room Video-Games: Waluigi: 'm your mama
+Write Event in Chat Room Video-Games: Gus: Stay out all night, it's gonna feel all right
+Read Event Client Gus, line: Waluigi: 'm your mama
+Read Event Client Gus, line: Gus: Stay out all night, it's gonna feel all right
+Read Event Client Waluigi, line: Waluigi: 'm your mama
+Read Event Client Waluigi, line: Gus: Stay out all night, it's gonna feel all right
+Event in Chat Room Music: Sasha has joined
+Read Event From Client Sasha: Sasha has joined
+Write Event in Chat Room Music: Sasha: Thick and thin
+Write Event in Chat Room Politics: Tinky-Winky: With precision you feed me
+Write Event in Chat Room Art: Posh-Spice: Let the maps of war be drawn.
+Read Event Client Posh-Spice, line: Posh-Spice: Let the maps of war be drawn.
+Read Event Client Sasha, line: Sasha: Thick and thin
+Read Event Client Tinky-Winky, line: Tinky-Winky: With precision you feed me
+Event in Chat Room Video-Games: Waluigi has left
+Read Event From Client Gus: Waluigi has left
+Write Event in Chat Room Video-Games: Gus: Rosalita jump a little lighter
+Read Event Client Gus, line: Gus: Rosalita jump a little lighter
+Event in Chat Room Bridge: Waluigi has joined
+Read Event From Client Waluigi: Waluigi has joined
+Write Event in Chat Room Art: Posh-Spice: You don't have to call me lieutenant Rosie and I don't want to be your son
+Write Event in Chat Room Music: Sasha: Who controls the present now?
+Read Event Client Posh-Spice, line: Posh-Spice: You don't have to call me lieutenant Rosie and I don't want to be your son
+Read Event Client Sasha, line: Sasha: Who controls the present now?
+Event in Chat Room Politics: Tinky-Winky has left
+Write Event in Chat Room Music: Sasha: Don't you know that you're toxic?
+Write Event in Chat Room Bridge: Waluigi: Lord, Lord, yeah
+Write Event in Chat Room Bridge: Waluigi: Your main boy
+Write Event in Chat Room Video-Games: Gus: Tell him this is his last chance to get his daughter in a fine romance
+Read Event Client Gus, line: Gus: Tell him this is his last chance to get his daughter in a fine romance
+Read Event Client Sasha, line: Sasha: Don't you know that you're toxic?
+Read Event Client Waluigi, line: Waluigi: Lord, Lord, yeah
+Read Event Client Waluigi, line: Waluigi: Your main boy
+Event in Chat Room Art: Posh-Spice has left
+Write Event in Chat Room Music: Sasha: Feed me money for style
+Write Event in Chat Room Bridge: Waluigi: Now testify
+Write Event in Chat Room Music: Sasha: NEGATIVE! PRIMITIVE! LIMITED! I LET YOU LIVE!
+Read Event Client Sasha, line: Sasha: Feed me money for style
+Read Event Client Sasha, line: Sasha: NEGATIVE! PRIMITIVE! LIMITED! I LET YOU LIVE!
+Read Event Client Waluigi, line: Waluigi: Now testify
+Event in Chat Room Video-Games: Tinky-Winky has joined
+Read Event From Client Gus: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Event in Chat Room Video-Games: Gus has left
+Read Event From Client Tinky-Winky: Gus has left
+Write Event in Chat Room Bridge: Waluigi: Baby, can't you see, I'm calling
+Read Event Client Waluigi, line: Waluigi: Baby, can't you see, I'm calling
+Event in Chat Room Video-Games: Posh-Spice has joined
+Read Event From Client Tinky-Winky: Posh-Spice has joined
+Read Event From Client Posh-Spice: Posh-Spice has joined
+Write Event in Chat Room Video-Games: Tinky-Winky: And Rosie you're the one
+Read Event Client Posh-Spice, line: Tinky-Winky: And Rosie you're the one
+Read Event Client Tinky-Winky, line: Tinky-Winky: And Rosie you're the one
+Event in Chat Room Politics: Gus has joined
+Read Event From Client Gus: Gus has joined
+Write Event in Chat Room Video-Games: Posh-Spice: I'm a shattered
+Write Event in Chat Room Bridge: Waluigi: My brain's been battered, splattered all over Manhattan
+Write Event in Chat Room Video-Games: Tinky-Winky: Insecure from the past
+Write Event in Chat Room Music: Sasha: STRANGER!
+Write Event in Chat Room Video-Games: Posh-Spice: So I can carry on
+Write Event in Chat Room Music: Sasha: WHAT ELSE COULD YOU DO?
+Write Event in Chat Room Bridge: Waluigi: Big Apple
+Read Event Client Posh-Spice, line: Posh-Spice: I'm a shattered
+Read Event Client Posh-Spice, line: Tinky-Winky: Insecure from the past
+Read Event Client Posh-Spice, line: Posh-Spice: So I can carry on
+Read Event Client Sasha, line: Sasha: STRANGER!
+Read Event Client Sasha, line: Sasha: WHAT ELSE COULD YOU DO?
+Read Event Client Tinky-Winky, line: Posh-Spice: I'm a shattered
+Read Event Client Tinky-Winky, line: Tinky-Winky: Insecure from the past
+Read Event Client Tinky-Winky, line: Posh-Spice: So I can carry on
+Read Event Client Waluigi, line: Waluigi: My brain's been battered, splattered all over Manhattan
+Read Event Client Waluigi, line: Waluigi: Big Apple
+Event in Chat Room Video-Games: Posh-Spice has left
+Read Event From Client Tinky-Winky: Posh-Spice has left
+Write Event in Chat Room Politics: Gus: Ahhh, look at me, I'm a shattered
+Write Event in Chat Room Video-Games: Tinky-Winky: Pusherman gettin' mellow, y'all
+Write Event in Chat Room Video-Games: Tinky-Winky: Got to be mellow, y'all
+Read Event Client Gus, line: Gus: Ahhh, look at me, I'm a shattered
+Read Event Client Tinky-Winky, line: Tinky-Winky: Pusherman gettin' mellow, y'all
+Read Event Client Tinky-Winky, line: Tinky-Winky: Got to be mellow, y'all
+Event in Chat Room Food: Posh-Spice has joined
+Read Event From Client Posh-Spice: Posh-Spice has joined
+Write Event in Chat Room Video-Games: Tinky-Winky: It's getting late to give you up
+Write Event in Chat Room Music: Sasha: Shadoobie, my brain's been battered
+Write Event in Chat Room Food: Posh-Spice: Ah, sloppy Sue and Big Bones Billie, they'll be comin' up for air
+Write Event in Chat Room Politics: Gus: I'm comin' to liberate you, confiscate you, I want to be your man
+Write Event in Chat Room Bridge: Waluigi: My lover's never charming
+Read Event Client Gus, line: Gus: I'm comin' to liberate you, confiscate you, I want to be your man
+Read Event Client Posh-Spice, line: Posh-Spice: Ah, sloppy Sue and Big Bones Billie, they'll be comin' up for air
+Read Event Client Sasha, line: Sasha: Shadoobie, my brain's been battered
+Read Event Client Tinky-Winky, line: Tinky-Winky: It's getting late to give you up
+Read Event Client Waluigi, line: Waluigi: My lover's never charming
+Event in Chat Room Politics: Gus has left
+Write Event in Chat Room Bridge: Waluigi: I'm your daddy
+Write Event in Chat Room Bridge: Waluigi: I'm addicted to you
+Read Event Client Waluigi, line: Waluigi: I'm your daddy
+Read Event Client Waluigi, line: Waluigi: I'm addicted to you
+Event in Chat Room Bridge: Gus has joined
+Read Event From Client Waluigi: Gus has joined
+Read Event From Client Gus: Gus has joined
+Write Event in Chat Room Music: Sasha: Laughter, joy, and loneliness and sex and sex and sex and sex
+Write Event in Chat Room Video-Games: Tinky-Winky: Makin' love's
+Write Event in Chat Room Food: Posh-Spice: Crushed .... Dust .... in the wind ....
+Write Event in Chat Room Bridge: Gus: Superfly
+Read Event Client Gus, line: Gus: Superfly
+Read Event Client Posh-Spice, line: Posh-Spice: Crushed .... Dust .... in the wind ....
+Read Event Client Sasha, line: Sasha: Laughter, joy, and loneliness and sex and sex and sex and sex
+Read Event Client Tinky-Winky, line: Tinky-Winky: Makin' love's
+Read Event Client Waluigi, line: Gus: Superfly
+Event in Chat Room Video-Games: Tinky-Winky has left
+Event in Chat Room Video-Games: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Write Event in Chat Room Music: Sasha: The jury's sleepless
+Read Event Client Sasha, line: Sasha: The jury's sleepless
+Event in Chat Room Video-Games: Tinky-Winky has left
+Write Event in Chat Room Bridge: Waluigi: Dynamite's in the belfry playin' with the bats
+Write Event in Chat Room Bridge: Waluigi: My 'E ID'
+Write Event in Chat Room Food: Posh-Spice: We're gonna play some pool, skip some school, act real cool
+Write Event in Chat Room Music: Sasha: No, I'm not gonna harm you
+Write Event in Chat Room Food: Posh-Spice: Witness your blushing
+Write Event in Chat Room Bridge: Gus: Dealin' good
+Read Event Client Gus, line: Waluigi: Dynamite's in the belfry playin' with the bats
+Read Event Client Gus, line: Waluigi: My 'E ID'
+Read Event Client Gus, line: Gus: Dealin' good
+Read Event Client Posh-Spice, line: Posh-Spice: We're gonna play some pool, skip some school, act real cool
+Read Event Client Posh-Spice, line: Posh-Spice: Witness your blushing
+Read Event Client Sasha, line: Sasha: No, I'm not gonna harm you
+Read Event Client Waluigi, line: Waluigi: Dynamite's in the belfry playin' with the bats
+Read Event Client Waluigi, line: Waluigi: My 'E ID'
+Read Event Client Waluigi, line: Gus: Dealin' good
+Event in Chat Room Art: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Event in Chat Room Bridge: Waluigi has left
+Read Event From Client Gus: Waluigi has left
+Write Event in Chat Room Bridge: Gus: I'm your doctor
+Write Event in Chat Room Food: Posh-Spice: Until the winds of laughter blows cold.
+Write Event in Chat Room Bridge: Gus: Your temple it calms me
+Write Event in Chat Room Art: Tinky-Winky: Windows are for cheaters, chimneys for the poor
+Write Event in Chat Room Music: Sasha: Rosalita you're my stone desire
+Write Event in Chat Room Music: Sasha: I'm up against the ropes
+Read Event Client Gus, line: Gus: I'm your doctor
+Read Event Client Gus, line: Gus: Your temple it calms me
+Read Event Client Posh-Spice, line: Posh-Spice: Until the winds of laughter blows cold.
+Read Event Client Sasha, line: Sasha: Rosalita you're my stone desire
+Read Event Client Sasha, line: Sasha: I'm up against the ropes
+Read Event Client Tinky-Winky, line: Tinky-Winky: Windows are for cheaters, chimneys for the poor
+Event in Chat Room Video-Games: Waluigi has joined
+Read Event From Client Waluigi: Waluigi has joined
+Write Event in Chat Room Bridge: Gus: And look at me, I'm in tatters, yeah
+Write Event in Chat Room Video-Games: Waluigi: Directing traffic
+Write Event in Chat Room Art: Tinky-Winky: My friends they come around they
+Write Event in Chat Room Food: Posh-Spice: No, I'm not gonna rob you
+Write Event in Chat Room Music: Sasha: Now you've paid your money you're sitting in your ringside seat
+Write Event in Chat Room Video-Games: Waluigi: Gotta be mellow, y'all
+Write Event in Chat Room Music: Sasha: To live in this town you must be tough, tough, tough, tough, tough!
+Write Event in Chat Room Bridge: Gus: Does it matter, uh-huh
+Write Event in Chat Room Music: Sasha: Mama she's home in the window waitin' up for us
+Write Event in Chat Room Art: Tinky-Winky: So why you want to give me that
+Read Event Client Gus, line: Gus: And look at me, I'm in tatters, yeah
+Read Event Client Gus, line: Gus: Does it matter, uh-huh
+Read Event Client Posh-Spice, line: Posh-Spice: No, I'm not gonna rob you
+Read Event Client Sasha, line: Sasha: Now you've paid your money you're sitting in your ringside seat
+Read Event Client Sasha, line: Sasha: To live in this town you must be tough, tough, tough, tough, tough!
+Read Event Client Sasha, line: Sasha: Mama she's home in the window waitin' up for us
+Read Event Client Tinky-Winky, line: Tinky-Winky: My friends they come around they
+Read Event Client Tinky-Winky, line: Tinky-Winky: So why you want to give me that
+Read Event Client Waluigi, line: Waluigi: Directing traffic
+Read Event Client Waluigi, line: Waluigi: Gotta be mellow, y'all
+Write Event in Chat Room Music: Sasha: Baddest bitches in the bed
+Write Event in Chat Room Food: Posh-Spice: Ain't you hungry for success, success, success, success
+Write Event in Chat Room Bridge: Gus: My slaving sweating the skin right off my bones
+Write Event in Chat Room Art: Tinky-Winky: Is my thing
+Write Event in Chat Room Video-Games: Waluigi: Rejoice! Glory is ours!
+Write Event in Chat Room Music: Sasha: Look at me, I'm in tatters!
+Write Event in Chat Room Bridge: Gus: Uh-huh, this town's full of money grabbers
+Read Event Client Gus, line: Gus: My slaving sweating the skin right off my bones
+Read Event Client Gus, line: Gus: Uh-huh, this town's full of money grabbers
+Read Event Client Posh-Spice, line: Posh-Spice: Ain't you hungry for success, success, success, success
+Read Event Client Sasha, line: Sasha: Baddest bitches in the bed
+Read Event Client Sasha, line: Sasha: Look at me, I'm in tatters!
+Read Event Client Tinky-Winky, line: Tinky-Winky: Is my thing
+Read Event Client Waluigi, line: Waluigi: Rejoice! Glory is ours!
+Event in Chat Room Food: Posh-Spice has left
+Write Event in Chat Room Art: Tinky-Winky: It's so hard to cope
+Write Event in Chat Room Video-Games: Waluigi: I know I can break it
+Write Event in Chat Room Music: Sasha: Testify
+Read Event Client Sasha, line: Sasha: Testify
+Read Event Client Tinky-Winky, line: Tinky-Winky: It's so hard to cope
+Read Event Client Waluigi, line: Waluigi: I know I can break it
+Event in Chat Room Politics: Posh-Spice has joined
+Read Event From Client Posh-Spice: Posh-Spice has joined
+Write Event in Chat Room Art: Tinky-Winky: My witness I'm hungry
+Write Event in Chat Room Bridge: Gus: No, I'm not gonna rape you
+Write Event in Chat Room Politics: Posh-Spice: All the time
+Write Event in Chat Room Politics: Posh-Spice: Can't you see
+Write Event in Chat Room Video-Games: Waluigi: Funny Vibe!
+Write Event in Chat Room Music: Sasha: Who controls the present now controls the past
+Write Event in Chat Room Bridge: Gus: What a mess this town's in tatters I've been shattered
+Write Event in Chat Room Bridge: Gus: And I try not to hate you
+Write Event in Chat Room Music: Sasha: Been told I can't be nothin' else
+Write Event in Chat Room Art: Tinky-Winky: She'll be there in that chair when they wrestle her upstairs
+Read Event Client Gus, line: Gus: No, I'm not gonna rape you
+Read Event Client Gus, line: Gus: What a mess this town's in tatters I've been shattered
+Read Event Client Gus, line: Gus: And I try not to hate you
+Read Event Client Posh-Spice, line: Posh-Spice: All the time
+Read Event Client Posh-Spice, line: Posh-Spice: Can't you see
+Read Event Client Sasha, line: Sasha: Who controls the present now controls the past
+Read Event Client Sasha, line: Sasha: Been told I can't be nothin' else
+Read Event Client Tinky-Winky, line: Tinky-Winky: My witness I'm hungry
+Read Event Client Tinky-Winky, line: Tinky-Winky: She'll be there in that chair when they wrestle her upstairs
+Read Event Client Waluigi, line: Waluigi: Funny Vibe!
+Write Event in Chat Room Bridge: Gus: Got to get mellow, now
+Write Event in Chat Room Politics: Posh-Spice: I'm your friend
+Write Event in Chat Room Video-Games: Waluigi: (Taste of your lips I'm on a ride)
+Write Event in Chat Room Bridge: Gus: Got a woman I love desperately
+Write Event in Chat Room Music: Sasha: you're the one
+Write Event in Chat Room Bridge: Gus: The altars of the just
+Write Event in Chat Room Music: Sasha: I'm shattered.
+Write Event in Chat Room Art: Tinky-Winky: Secret stash
+Read Event Client Gus, line: Gus: Got to get mellow, now
+Read Event Client Gus, line: Gus: Got a woman I love desperately
+Read Event Client Gus, line: Gus: The altars of the just
+Read Event Client Posh-Spice, line: Posh-Spice: I'm your friend
+Read Event Client Sasha, line: Sasha: you're the one
+Read Event Client Sasha, line: Sasha: I'm shattered.
+Read Event Client Tinky-Winky, line: Tinky-Winky: Secret stash
+Read Event Client Waluigi, line: Waluigi: (Taste of your lips I'm on a ride)
+Event in Chat Room Video-Games: Waluigi has left
+Write Event in Chat Room Bridge: Gus: Want some coke
+Write Event in Chat Room Politics: Posh-Spice: Just a hustler in spite of myself
+Read Event Client Gus, line: Gus: Want some coke
+Read Event Client Posh-Spice, line: Posh-Spice: Just a hustler in spite of myself
+Event in Chat Room Video-Games: Waluigi has joined
+Read Event From Client Waluigi: Waluigi has joined
+Write Event in Chat Room Art: Tinky-Winky: With fever's blazing torch
+Write Event in Chat Room Music: Sasha: If I had known it would be like this I might have given it a second thought
+Write Event in Chat Room Video-Games: Waluigi: Look at me- I'm a shattered, yeah
+Write Event in Chat Room Politics: Posh-Spice: I think I'm ready now.
+Write Event in Chat Room Bridge: Gus: Like the great white hope
+Write Event in Chat Room Video-Games: Waluigi: You know playin' blindman's bluff is a little baby's game
+Write Event in Chat Room Politics: Posh-Spice: So use it Rosie, that's what it's there for
+Write Event in Chat Room Video-Games: Waluigi: A man of odd circumstance
+Write Event in Chat Room Art: Tinky-Winky: I'm your pusherman
+Read Event Client Gus, line: Gus: Like the great white hope
+Read Event Client Posh-Spice, line: Posh-Spice: I think I'm ready now.
+Read Event Client Posh-Spice, line: Posh-Spice: So use it Rosie, that's what it's there for
+Read Event Client Sasha, line: Sasha: If I had known it would be like this I might have given it a second thought
+Read Event Client Tinky-Winky, line: Tinky-Winky: With fever's blazing torch
+Read Event Client Tinky-Winky, line: Tinky-Winky: I'm your pusherman
+Read Event Client Waluigi, line: Waluigi: Look at me- I'm a shattered, yeah
+Read Event Client Waluigi, line: Waluigi: You know playin' blindman's bluff is a little baby's game
+Read Event Client Waluigi, line: Waluigi: A man of odd circumstance
+Event in Chat Room Politics: Posh-Spice has left
+Write Event in Chat Room Music: Sasha: You pick up Little Dynamite, I'm gonna pick up Little Gun
+Read Event Client Sasha, line: Sasha: You pick up Little Dynamite, I'm gonna pick up Little Gun
+Event in Chat Room Bridge: Gus has left
+Write Event in Chat Room Music: Sasha: Wanna give her somethin' better than me
+Read Event Client Sasha, line: Sasha: Wanna give her somethin' better than me
+Event in Chat Room Music: Posh-Spice has joined
+Read Event From Client Sasha: Posh-Spice has joined
+Read Event From Client Posh-Spice: Posh-Spice has joined
+Write Event in Chat Room Art: Tinky-Winky: Go ahead, bite the Big Apple, don't mind the maggots, huh
+Write Event in Chat Room Video-Games: Waluigi: That's what makes our town the best
+Write Event in Chat Room Music: Sasha: Super cool
+Read Event Client Posh-Spice, line: Sasha: Super cool
+Read Event Client Sasha, line: Sasha: Super cool
+Read Event Client Tinky-Winky, line: Tinky-Winky: Go ahead, bite the Big Apple, don't mind the maggots, huh
+Read Event Client Waluigi, line: Waluigi: That's what makes our town the best
+Event in Chat Room Video-Games: Gus has joined
+Read Event From Client Waluigi: Gus has joined
+Read Event From Client Gus: Gus has joined
+Event in Chat Room Video-Games: Waluigi has left
+Read Event From Client Gus: Waluigi has left
+Event in Chat Room Art: Tinky-Winky has left
+Write Event in Chat Room Video-Games: Gus: Draws a blade if compassion
+Write Event in Chat Room Music: Posh-Spice: The only lover I'm ever gonna need's your soft sweet little girl's tongue Rosie
+Read Event Client Gus, line: Gus: Draws a blade if compassion
+Read Event Client Posh-Spice, line: Posh-Spice: The only lover I'm ever gonna need's your soft sweet little girl's tongue Rosie
+Read Event Client Sasha, line: Posh-Spice: The only lover I'm ever gonna need's your soft sweet little girl's tongue Rosie
+Event in Chat Room Music: Waluigi has joined
+Read Event From Client Sasha: Waluigi has joined
+Read Event From Client Posh-Spice: Waluigi has joined
+Read Event From Client Waluigi: Waluigi has joined
+Write Event in Chat Room Music: Sasha: Because a record company, Rosie, just gave me a big advance
+Write Event in Chat Room Music: Posh-Spice: No, I'm not gonna beat you
+Read Event Client Posh-Spice, line: Sasha: Because a record company, Rosie, just gave me a big advance
+Read Event Client Posh-Spice, line: Posh-Spice: No, I'm not gonna beat you
+Read Event Client Sasha, line: Sasha: Because a record company, Rosie, just gave me a big advance
+Read Event Client Sasha, line: Posh-Spice: No, I'm not gonna beat you
+Read Event Client Waluigi, line: Sasha: Because a record company, Rosie, just gave me a big advance
+Read Event Client Waluigi, line: Posh-Spice: No, I'm not gonna beat you
+Event in Chat Room Bridge: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Write Event in Chat Room Bridge: Tinky-Winky: Hold on tight, stay up all night 'cause Rosie I'm comin' on strong
+Write Event in Chat Room Music: Sasha: With your lovin' now
+Write Event in Chat Room Music: Waluigi: taste of a poison paradise
+Write Event in Chat Room Music: Posh-Spice: Look at me, I'm in tatters
+Write Event in Chat Room Bridge: Tinky-Winky: I'm only here for fun
+Write Event in Chat Room Music: Sasha: Someday we'll look back on this and it will all seem funny
+Read Event Client Posh-Spice, line: Sasha: With your lovin' now
+Read Event Client Posh-Spice, line: Posh-Spice: Look at me, I'm in tatters
+Read Event Client Posh-Spice, line: Sasha: Someday we'll look back on this and it will all seem funny
+Read Event Client Posh-Spice, line: Waluigi: taste of a poison paradise
+Read Event Client Sasha, line: Sasha: With your lovin' now
+Read Event Client Sasha, line: Posh-Spice: Look at me, I'm in tatters
+Read Event Client Sasha, line: Sasha: Someday we'll look back on this and it will all seem funny
+Read Event Client Sasha, line: Waluigi: taste of a poison paradise
+Read Event Client Tinky-Winky, line: Tinky-Winky: Hold on tight, stay up all night 'cause Rosie I'm comin' on strong
+Read Event Client Tinky-Winky, line: Tinky-Winky: I'm only here for fun
+Read Event Client Waluigi, line: Sasha: With your lovin' now
+Read Event Client Waluigi, line: Posh-Spice: Look at me, I'm in tatters
+Read Event Client Waluigi, line: Sasha: Someday we'll look back on this and it will all seem funny
+Read Event Client Waluigi, line: Waluigi: taste of a poison paradise
+Event in Chat Room Bridge: Tinky-Winky has left
+Write Event in Chat Room Video-Games: Gus: And I love what you do
+Write Event in Chat Room Music: Waluigi: When I was a young man, I had to kick and scratch and claw
+Write Event in Chat Room Music: Posh-Spice: Thrust in the face of the night;
+Write Event in Chat Room Video-Games: Gus: Losing my head,
+Write Event in Chat Room Music: Sasha: Shattered, shattered
+Write Event in Chat Room Music: Waluigi: Friends are so alarming
+Read Event Client Gus, line: Gus: And I love what you do
+Read Event Client Gus, line: Gus: Losing my head,
+Read Event Client Posh-Spice, line: Waluigi: When I was a young man, I had to kick and scratch and claw
+Read Event Client Posh-Spice, line: Waluigi: Friends are so alarming
+Read Event Client Posh-Spice, line: Posh-Spice: Thrust in the face of the night;
+Read Event Client Posh-Spice, line: Sasha: Shattered, shattered
+Read Event Client Sasha, line: Waluigi: When I was a young man, I had to kick and scratch and claw
+Read Event Client Sasha, line: Waluigi: Friends are so alarming
+Read Event Client Sasha, line: Posh-Spice: Thrust in the face of the night;
+Read Event Client Sasha, line: Sasha: Shattered, shattered
+Read Event Client Waluigi, line: Waluigi: When I was a young man, I had to kick and scratch and claw
+Read Event Client Waluigi, line: Waluigi: Friends are so alarming
+Read Event Client Waluigi, line: Posh-Spice: Thrust in the face of the night;
+Read Event Client Waluigi, line: Sasha: Shattered, shattered
+Event in Chat Room Music: Tinky-Winky has joined
+Read Event From Client Sasha: Tinky-Winky has joined
+Read Event From Client Posh-Spice: Tinky-Winky has joined
+Read Event From Client Waluigi: Tinky-Winky has joined
+Read Event From Client Tinky-Winky: Tinky-Winky has joined
+Write Event in Chat Room Music: Waluigi: This life just don't make it
+Write Event in Chat Room Music: Tinky-Winky: Makin' money
+Write Event in Chat Room Music: Sasha: Kissed by countless Kings
+Read Event Client Posh-Spice, line: Waluigi: This life just don't make it
+Read Event Client Posh-Spice, line: Tinky-Winky: Makin' money
+Read Event Client Posh-Spice, line: Sasha: Kissed by countless Kings
+Read Event Client Sasha, line: Waluigi: This life just don't make it
+Read Event Client Sasha, line: Tinky-Winky: Makin' money
+Read Event Client Sasha, line: Sasha: Kissed by countless Kings
+Read Event Client Tinky-Winky, line: Waluigi: This life just don't make it
+Read Event Client Tinky-Winky, line: Tinky-Winky: Makin' money
+Read Event Client Tinky-Winky, line: Sasha: Kissed by countless Kings
+Read Event Client Waluigi, line: Waluigi: This life just don't make it
+Read Event Client Waluigi, line: Tinky-Winky: Makin' money
+Read Event Client Waluigi, line: Sasha: Kissed by countless Kings
+Event in Chat Room Music: Waluigi has left
+Read Event From Client Sasha: Waluigi has left
+Read Event From Client Posh-Spice: Waluigi has left
+Read Event From Client Tinky-Winky: Waluigi has left
+Write Event in Chat Room Video-Games: Gus: You can hear them in the back room strummin'
+Write Event in Chat Room Music: Sasha: Ain't I clean
+Write Event in Chat Room Music: Posh-Spice: Its right outside your door
+Write Event in Chat Room Video-Games: Gus: I know a pretty little place in Southern California down San Diego way
+Write Event in Chat Room Music: Tinky-Winky: Don't you know
+Write Event in Chat Room Music: Posh-Spice: And just me
+Write Event in Chat Room Music: Tinky-Winky: Guardians of a nuclear dawn
+Write Event in Chat Room Music: Tinky-Winky: While here we lie in tombs
+Read Event Client Gus, line: Gus: You can hear them in the back room strummin'
+Read Event Client Gus, line: Gus: I know a pretty little place in Southern California down San Diego way
+Read Event Client Posh-Spice, line: Sasha: Ain't I clean
+Read Event Client Posh-Spice, line: Posh-Spice: Its right outside your door
+Read Event Client Posh-Spice, line: Posh-Spice: And just me
+Read Event Client Posh-Spice, line: Tinky-Winky: Don't you know
+Read Event Client Posh-Spice, line: Tinky-Winky: Guardians of a nuclear dawn
+Read Event Client Posh-Spice, line: Tinky-Winky: While here we lie in tombs
+Read Event Client Sasha, line: Sasha: Ain't I clean
+Read Event Client Sasha, line: Posh-Spice: Its right outside your door
+Read Event Client Sasha, line: Posh-Spice: And just me
+Read Event Client Sasha, line: Tinky-Winky: Don't you know
+Read Event Client Sasha, line: Tinky-Winky: Guardians of a nuclear dawn
+Read Event Client Sasha, line: Tinky-Winky: While here we lie in tombs
+Read Event Client Tinky-Winky, line: Sasha: Ain't I clean
+Read Event Client Tinky-Winky, line: Posh-Spice: Its right outside your door
+Read Event Client Tinky-Winky, line: Posh-Spice: And just me
+Read Event Client Tinky-Winky, line: Tinky-Winky: Don't you know
+Read Event Client Tinky-Winky, line: Tinky-Winky: Guardians of a nuclear dawn
+Read Event Client Tinky-Winky, line: Tinky-Winky: While here we lie in tombs
+Event in Chat Room Music: Sasha has left
+Read Event From Client Posh-Spice: Sasha has left
+Read Event From Client Tinky-Winky: Sasha has left
+Event in Chat Room Video-Games: Gus has left
+Write Event in Chat Room Music: Tinky-Winky: People dressed in plastic bags
+Write Event in Chat Room Music: Posh-Spice: And I know your daddy he don't dig me but he never did understand
+Read Event Client Posh-Spice, line: Tinky-Winky: People dressed in plastic bags
+Read Event Client Posh-Spice, line: Posh-Spice: And I know your daddy he don't dig me but he never did understand
+Read Event Client Tinky-Winky, line: Tinky-Winky: People dressed in plastic bags
+Read Event Client Tinky-Winky, line: Posh-Spice: And I know your daddy he don't dig me but he never did understand
+Event in Chat Room Music: Sasha has joined
+Read Event From Client Posh-Spice: Sasha has joined
+Read Event From Client Tinky-Winky: Sasha has joined
+Read Event From Client Sasha: Sasha has joined
+Event in Chat Room Music: Gus has joined
+Read Event From Client Posh-Spice: Gus has joined
+Read Event From Client Tinky-Winky: Gus has joined
+Read Event From Client Sasha: Gus has joined
+Read Event From Client Gus: Gus has joined
+Write Event in Chat Room Music: Tinky-Winky: Super mean
+Write Event in Chat Room Music: Posh-Spice: Now it's like top gun in the Old West, everybody wants me to draw
+Write Event in Chat Room Music: Tinky-Winky: For The Man
+Write Event in Chat Room Music: Tinky-Winky: So hold tight baby 'cause don't you know daddy's comin'
+Write Event in Chat Room Music: Sasha: Man alone; born of stone;
+Write Event in Chat Room Music: Posh-Spice: You know me
+Write Event in Chat Room Music: Sasha: My machine she's a dud, I'm stuck in the mud somewhere in the swamps of Jersey
+Write Event in Chat Room Music: Gus: We found your weakness
+Write Event in Chat Room Music: Sasha: My tires were slashed and I almost crashed but the Lord had mercy
+Write Event in Chat Room Music: Sasha: By the time we meet the morning light I will hold you in my arms
+Read Event Client Gus, line: Tinky-Winky: Super mean
+Read Event Client Gus, line: Posh-Spice: Now it's like top gun in the Old West, everybody wants me to draw
+Read Event Client Gus, line: Sasha: Man alone; born of stone;
+Read Event Client Gus, line: Tinky-Winky: For The Man
+Read Event Client Gus, line: Tinky-Winky: So hold tight baby 'cause don't you know daddy's comin'
+Read Event Client Gus, line: Gus: We found your weakness
+Read Event Client Gus, line: Sasha: My machine she's a dud, I'm stuck in the mud somewhere in the swamps of Jersey
+Read Event Client Gus, line: Posh-Spice: You know me
+Read Event Client Gus, line: Sasha: My tires were slashed and I almost crashed but the Lord had mercy
+Read Event Client Gus, line: Sasha: By the time we meet the morning light I will hold you in my arms
+Read Event Client Posh-Spice, line: Tinky-Winky: Super mean
+Read Event Client Posh-Spice, line: Posh-Spice: Now it's like top gun in the Old West, everybody wants me to draw
+Read Event Client Posh-Spice, line: Sasha: Man alone; born of stone;
+Read Event Client Posh-Spice, line: Tinky-Winky: For The Man
+Read Event Client Posh-Spice, line: Tinky-Winky: So hold tight baby 'cause don't you know daddy's comin'
+Read Event Client Posh-Spice, line: Gus: We found your weakness
+Read Event Client Posh-Spice, line: Sasha: My machine she's a dud, I'm stuck in the mud somewhere in the swamps of Jersey
+Read Event Client Posh-Spice, line: Posh-Spice: You know me
+Read Event Client Posh-Spice, line: Sasha: My tires were slashed and I almost crashed but the Lord had mercy
+Read Event Client Posh-Spice, line: Sasha: By the time we meet the morning light I will hold you in my arms
+Read Event Client Sasha, line: Tinky-Winky: Super mean
+Read Event Client Sasha, line: Posh-Spice: Now it's like top gun in the Old West, everybody wants me to draw
+Read Event Client Sasha, line: Sasha: Man alone; born of stone;
+Read Event Client Sasha, line: Tinky-Winky: For The Man
+Read Event Client Sasha, line: Tinky-Winky: So hold tight baby 'cause don't you know daddy's comin'
+Read Event Client Sasha, line: Gus: We found your weakness
+Read Event Client Sasha, line: Sasha: My machine she's a dud, I'm stuck in the mud somewhere in the swamps of Jersey
+Read Event Client Sasha, line: Posh-Spice: You know me
+Read Event Client Sasha, line: Sasha: My tires were slashed and I almost crashed but the Lord had mercy
+Read Event Client Sasha, line: Sasha: By the time we meet the morning light I will hold you in my arms
+Read Event Client Tinky-Winky, line: Tinky-Winky: Super mean
+Read Event Client Tinky-Winky, line: Posh-Spice: Now it's like top gun in the Old West, everybody wants me to draw
+Read Event Client Tinky-Winky, line: Sasha: Man alone; born of stone;
+Read Event Client Tinky-Winky, line: Tinky-Winky: For The Man
+Read Event Client Tinky-Winky, line: Tinky-Winky: So hold tight baby 'cause don't you know daddy's comin'
+Read Event Client Tinky-Winky, line: Gus: We found your weakness
+Read Event Client Tinky-Winky, line: Sasha: My machine she's a dud, I'm stuck in the mud somewhere in the swamps of Jersey
+Read Event Client Tinky-Winky, line: Posh-Spice: You know me
+Read Event Client Tinky-Winky, line: Sasha: My tires were slashed and I almost crashed but the Lord had mercy
+Read Event Client Tinky-Winky, line: Sasha: By the time we meet the morning light I will hold you in my arms
+Write Event in Chat Room Music: Sasha: The wrecking ball is rushing
+Write Event in Chat Room Music: Posh-Spice: Our young men have not died in vain,
+Read Event Client Gus, line: Sasha: The wrecking ball is rushing
+Read Event Client Gus, line: Posh-Spice: Our young men have not died in vain,
+Read Event Client Posh-Spice, line: Sasha: The wrecking ball is rushing
+Read Event Client Posh-Spice, line: Posh-Spice: Our young men have not died in vain,
+Read Event Client Sasha, line: Sasha: The wrecking ball is rushing
+Read Event Client Sasha, line: Posh-Spice: Our young men have not died in vain,
+Read Event Client Tinky-Winky, line: Sasha: The wrecking ball is rushing
+Read Event Client Tinky-Winky, line: Posh-Spice: Our young men have not died in vain,
+Event in Chat Room Music: Tinky-Winky has left
+Read Event From Client Posh-Spice: Tinky-Winky has left
+Read Event From Client Sasha: Tinky-Winky has left
+Read Event From Client Gus: Tinky-Winky has left
+Write Event in Chat Room Music: Gus: Every sign
+Write Event in Chat Room Music: Posh-Spice: Here I stand
+Read Event Client Gus, line: Gus: Every sign
+Read Event Client Gus, line: Posh-Spice: Here I stand
+Read Event Client Posh-Spice, line: Gus: Every sign
+Read Event Client Posh-Spice, line: Posh-Spice: Here I stand
+Read Event Client Sasha, line: Gus: Every sign
+Read Event Client Sasha, line: Posh-Spice: Here I stand
+Event in Chat Room Music: Sasha has left
+Read Event From Client Posh-Spice: Sasha has left
+Read Event From Client Gus: Sasha has left
+Write Event in Chat Room Music: Posh-Spice: There's a little cafe where they play guitars all night and day
+Write Event in Chat Room Music: Gus: Bad machine
+Read Event Client Gus, line: Gus: Bad machine
+Read Event Client Gus, line: Posh-Spice: There's a little cafe where they play guitars all night and day
+Read Event Client Posh-Spice, line: Gus: Bad machine
+Read Event Client Posh-Spice, line: Posh-Spice: There's a little cafe where they play guitars all night and day
+Event in Chat Room Music: Posh-Spice has left
+Read Event From Client Gus: Posh-Spice has left
+Write Event in Chat Room Music: Gus: How I swing
+Write Event in Chat Room Music: Gus: Mass graves for the pump and the price is set
+Write Event in Chat Room Music: Gus: Let the bridge computer speak
+Write Event in Chat Room Music: Gus: Look at me
+Write Event in Chat Room Music: Gus: All this chitter-chatter, chitter-chatter, chitter-chatter 'bout
+Write Event in Chat Room Music: Gus: For a generous fee
+Write Event in Chat Room Music: Gus: Pride and joy and dirty dreams and still surviving on the street
+Write Event in Chat Room Music: Gus: Love and hope and sex and dreams
+Read Event Client Gus, line: Gus: How I swing
+Read Event Client Gus, line: Gus: Mass graves for the pump and the price is set
+Read Event Client Gus, line: Gus: Let the bridge computer speak
+Read Event Client Gus, line: Gus: Look at me
+Read Event Client Gus, line: Gus: All this chitter-chatter, chitter-chatter, chitter-chatter 'bout
+Read Event Client Gus, line: Gus: For a generous fee
+Read Event Client Gus, line: Gus: Pride and joy and dirty dreams and still surviving on the street
+Read Event Client Gus, line: Gus: Love and hope and sex and dreams
+Event in Chat Room Music: Gus has left
+Event in Chat Room Video-Games: Gus has joined
+Read Event From Client Gus: Gus has joined
+Event in Chat Room Video-Games: Gus has left
+Events correctly processed

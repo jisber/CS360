@@ -1,0 +1,4 @@
+testmain.o: In function `main':
+testmain.c:(.text+0x30): undefined reference to `thrid'
+collect2: error: ld returned 1 exit status
+Command failed.  Fakemake exiting

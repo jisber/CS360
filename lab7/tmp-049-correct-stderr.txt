@@ -1,0 +1,15 @@
+thisprogramdoesnotexist: Permission denied
+FD 34 was open
+FD 34 was open
+FD 34 was open
+thisprogramdoesnotexist: Permission denied
+thisprogramdoesnotexist: Permission denied
+FD 34 was open
+FD 34 was open
+thisprogramdoesnotexist: Permission denied
+FD 34 was open
+thisprogramdoesnotexist: Permission denied
+FD 34 was open
+FD 34 was open
+FD 34 was open
+thisprogramdoesnotexist: Permission denied

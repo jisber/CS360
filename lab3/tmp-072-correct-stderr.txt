@@ -1,0 +1,4 @@
+cc1: warning: /dev/null: not a directory [enabled by default]
+cc1: warning: /dev/null: not a directory [enabled by default]
+cc1: warning: /dev/null: not a directory [enabled by default]
+cc1: warning: /dev/null: not a directory [enabled by default]

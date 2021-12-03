@@ -1,0 +1,13 @@
+PERSON Bob
+  FATHER_OF Frank
+  FATHER_OF Lester
+  FATHER_OF Diana
+
+PERSON Diana
+  SEX 
+
+PERSON Frank
+  SEX 
+
+PERSON Lester
+  SEX 
